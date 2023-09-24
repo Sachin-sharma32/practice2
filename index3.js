@@ -3,3 +3,4 @@ console.log("amend");
 console.log("1");
 console.log("2");
 console.log("amend2");
+console.log("ament3")
